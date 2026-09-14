@@ -21,7 +21,7 @@
 
 ## Де це живе
 
-**https://cherniak27031997.github.io/cyberos-guide/**
+**https://eightgatecopr.github.io/cyber-club-guide/**
 
 GitHub Pages віддають сайт із ветки `main`, тека `/` (root). Тобто
 достатньо запушити в `main` — за хвилину зміни вже на сайті, жодних
